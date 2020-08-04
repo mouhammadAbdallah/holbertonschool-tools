@@ -1,4 +1,4 @@
-# 0x04-shell_basics
+# 0x04-shell_permissions
 
 * Date: 08/03/2020
 * Time: 08:25
