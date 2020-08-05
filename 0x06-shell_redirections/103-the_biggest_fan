@@ -1,0 +1,2 @@
+#!/bin/bash
+cat |sort| cut -d '	' -f 1| uniq -c |sort -gr|head -11|cut -d ' ' -f 6
