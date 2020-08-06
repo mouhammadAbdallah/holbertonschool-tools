@@ -15,3 +15,4 @@ This repository contains:
 * 0x04. Shell, basics
 * 0x05. Shell, permissions
 * 0x06. Shell, I/O Redirections and filters
+* 0x07-shell_variables_expansions
